@@ -15,7 +15,7 @@ export default function Hero() {
           <span className="text-brand">Amina Ismaila</span>
         </h1>
         <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
-          I build fast, accessible, and beautiful web experiences. 5+ years
+          I build fast, accessible, and beautiful web experiences. 3+ years
           crafting responsive UIs with React, JavaScript, and modern CSS —
           from startups to production-grade platforms.
         </p>
