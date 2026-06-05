@@ -92,7 +92,7 @@ export default function Navbar({ activeSection }) {
             ))}
             <li>
               <a
-                href="https://drive.google.com/file/d/1Ukw_68I1dPBJsL5WdIPAHMfEaYOz-hxt/view?usp=sharing"
+                href="https://drive.google.com/file/d/18S0auXutdL8QggYfehBZvwXaubMcSAb-/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-block px-4 py-2 border border-brand text-brand text-sm font-medium rounded-full hover:bg-brand hover:text-white transition-all"
