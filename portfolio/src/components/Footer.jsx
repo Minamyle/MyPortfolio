@@ -17,12 +17,12 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://twitter.com/imeenatv"
+            href="https://www.linkedin.com/in/amina-ismaila"
             target="_blank"
             rel="noreferrer"
             className="text-gray-600 hover:text-white transition-colors text-sm"
           >
-            Twitter
+            LinkedIn
           </a>
           <a
             href="https://instagram.com/imeenatv"
