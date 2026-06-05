@@ -46,14 +46,14 @@ export default function Navbar({ activeSection }) {
             </li>
           ))}
           <li>
-            <a
-              href="https://drive.google.com/file/d/1K4mki3sDVt1QRTnNtYq61fFZKAqfW5X4/view?usp=sharing"
-              target="_blank"
-              rel="noreferrer"
-              className="px-4 py-2 border border-brand text-brand text-sm font-medium rounded-full hover:bg-brand hover:text-white transition-all"
-            >
-              Resume
-            </a>
+        <a
+                href="https://drive.google.com/file/d/18S0auXutdL8QggYfehBZvwXaubMcSAb-/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-4 py-2 border border-brand text-brand text-sm font-medium rounded-full hover:bg-brand hover:text-white transition-all"
+              >
+                Resume
+              </a>
           </li>
         </ul>
 
@@ -94,7 +94,7 @@ export default function Navbar({ activeSection }) {
               <a
                 href="https://drive.google.com/file/d/18S0auXutdL8QggYfehBZvwXaubMcSAb-/view?usp=sharing"
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
                 className="inline-block px-4 py-2 border border-brand text-brand text-sm font-medium rounded-full hover:bg-brand hover:text-white transition-all"
               >
                 Resume
