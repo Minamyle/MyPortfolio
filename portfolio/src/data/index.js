@@ -89,6 +89,33 @@ export const projects = [
     github: "https://github.com/Minamyle/AI-Powered-Patient-Management",
     image: null,
   },
+  {
+    id: 11,
+    title: "Seidou",
+    description: "Web3 ecosystem blending gaming and decentralization. Features Land Wars territory auctions, an App Center for decentralized apps, and wallet-based profiles.",
+    tech: ["React","Next.js", "Web3", "Tailwind CSS", "Vercel"],
+    live: "https://seidou.vercel.app/",
+    github: null,
+    image: null,
+  },
+  {
+    id: 12,
+    title: "Soaking Garri AI",
+    description: "AI-powered knowledge platform branded as The Knowledge Starship — explore, learn, and interact with AI-driven educational content and tools.",
+    tech: ["React", "TypeScript", "Tailwind CSS"],
+    live: "https://soaking-garri-ai-website.vercel.app/",
+    github: null,
+    image: null,
+  },
+  {
+    id: 13,
+    title: "RocoCoin",
+    description: "All-in-one crypto platform combining a multi-asset wallet, P2P trading with smart-contract escrow, staking pools, gift card exchange, and an NFT marketplace.",
+    tech: ["TypeScript", "React", "Web3", "Tailwind CSS"],
+    live: "https://rococoins.com/",
+    github: null,
+    image: null,
+  },
 ];
 
 export const skills = [
