@@ -121,6 +121,7 @@ export const projects = [
 export const skills = [
   "JavaScript (ES6+)",
   "React.js",
+  "Next.js",
   "TypeScript",
   "Tailwind CSS",
   "HTML5 & CSS3",
